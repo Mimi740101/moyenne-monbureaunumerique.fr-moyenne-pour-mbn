@@ -6,8 +6,8 @@
 // @run-at         document-idle
 // @author         Mimi740101
 // @icon           https://cdn.monbureaunumerique.fr/images/favicon.ico
-// @downloadURL    https://github.com/NonozgYtb/mbn-enhancement-suite/blob/master/mbn-average-part.js
-// @updateURL      https://github.com/NonozgYtb/mbn-enhancement-suite/blob/master/mbn-average-part.js
+// @downloadURL    https://github.com/Mimi740101/moyenne-monbureaunumerique.fr-moyenne-pour-mbn/blob/main/MonBureauNum%C3%A9rique%20Moyenne.js
+// @updateURL      https://github.com/Mimi740101/moyenne-monbureaunumerique.fr-moyenne-pour-mbn/blob/main/MonBureauNum%C3%A9rique%20Moyenne.js
 // @version        1.2
 // ==/UserScript==
 
@@ -180,8 +180,8 @@ const consoleClear = true;
     if (consoleClear) {
         console.clear();
         console.log(
-            "%cMonBureauNumérique Average ️\n%cMoyenne dans le tableau Evaluations%c\nFrom the/Provient de MBN Enhancement Suite\n%cAjoute des fonctions utiles à MonBureauNumérique (ENT Grand-Est)\n© 2020 NonozgYtb\nVersion: %c1.2%c\nActivation: %c" +
-            (!url.includes("moodle") && !url.includes("pronote")).toString() + "%c\n\nSource: https://github.com/NonozgYtb/mbn-enhancement-suite\n",
+            "%cmoyenne-monbureaunumerique.fr ️\n%cMoyenne dans le tableau Evaluations%c\nFrom the/Provient de moyenne-monbureaunumerique.fr\n%cAjoute des fonctions utiles à MonBureauNumérique (ENT Grand-Est)\n© 2026 Mimi740101\nVersion: %c1.2%c\nActivation: %c" +
+            (!url.includes("moodle") && !url.includes("pronote")).toString() + "%c\n\nSource: https://github.com/Mimi740101/moyenne-monbureaunumerique.fr-moyenne-pour-mbn/blob/main/MonBureauNum%C3%A9rique%20Moyenne.js",
             "font-size:25px;font-family:Arial;font-weight:bold;",
             "font-size:18px;font-family:Arial;font-weight:bold;padding:10px 0;",
             "color:#aaa;font-style:italic;",
