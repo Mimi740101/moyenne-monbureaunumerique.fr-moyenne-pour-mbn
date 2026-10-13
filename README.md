@@ -27,3 +27,8 @@ Utilisation
 Dans votre extension, ajoutez le script puis allez dans les paramètres de l'extension et activez "autoriser les scripts utilisateur"
 
 Il vous suffit de vérifier l'activation de l'extension et du script, et de se rendre sur MonBureauNumérique pour qu'il fonctionne.
+
+
+Fonctions :
+-ajout de l'onglet moyenne générale 
+-ajout d'un graphique montrant l'évolution de la moyenne générale
